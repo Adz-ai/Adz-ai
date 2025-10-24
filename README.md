@@ -23,3 +23,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-dun-phi.vercel.app?user=Adz-ai&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats-pi-ruddy.vercel.app/api/top-langs/?username=Adz-ai&layout=donut&theme=dark&langs_count=8)
+
