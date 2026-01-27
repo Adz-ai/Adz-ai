@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarssh</h1>
 
-- 🛠️ I'm currently working on **[carguessr](https://github.com/Adz-ai/carguessr)**
+- 🛠️ I'm currently working on **[carguessr](https://carguessr.uk)**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/adarssh-athithan-40363b207/)**
 
