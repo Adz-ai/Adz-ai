@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adarssh</h1>
 
-- 🧠 **[rag-service](https://github.com/Adz-ai/rag-service)** — a production-shaped Retrieval-Augmented Generation service: FastAPI, pgvector hybrid retrieval, LLM reranking, grounded cited answers, and a real evaluation harness
-
-- 🔌 **[rag-mcp-server](https://github.com/Adz-ai/rag-mcp-server)** — a Model Context Protocol server (Java 25, Spring Boot 4) exposing that RAG service as tools for AI clients like Claude Code
+- 🛠️ I'm currently working on:
+  - 🧠 **[rag-service](https://github.com/Adz-ai/rag-service)** — a production-shaped Retrieval-Augmented Generation service: FastAPI, pgvector hybrid retrieval, LLM reranking, grounded cited answers, and a real evaluation harness
+  - 🔌 **[rag-mcp-server](https://github.com/Adz-ai/rag-mcp-server)** — a Model Context Protocol server (Java 25, Spring Boot 4) exposing that RAG service as tools for AI clients like Claude Code
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/adarssh-athithan-40363b207/)**
 
